@@ -26,6 +26,13 @@ It is a reference specification.
 
 ## Architectural Position
 
+**Dependency chain:**  
+ForgeEcosystem (constitutional layer) → ConditionalBoundedness (control layer) → BoundedRuntime (deployment packaging).
+
+ForgeEcosystem defines invariants and governance constraints.  
+It does not contain switching mechanics or runtime packaging artifacts.
+
+BoundedRuntime introduces no new constitutional invariants and does not override deployment membranes.
 The Forge Ecosystem situates and preserves the switching architecture defined in the **Conditional Boundedness** repository.
 
 Relationship across repositories:
