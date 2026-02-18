@@ -22,49 +22,50 @@ No single layer is sufficient alone.
 Stability emerges from layered interaction.
 
 ---
-`
 ## System Stack
 
+```
 ┌─────────────────────────────────────────────┐
-│ Governance Layer │
-│ - Basin depth evaluation │
-│ - Audit surfaces │
-│ - Threshold immutability │
-│ - Incentive alignment │
-│ - Distributed stewardship │
+│ Governance Layer                           │
+│ - Basin depth evaluation                   │
+│ - Audit surfaces                           │
+│ - Threshold immutability                   │
+│ - Incentive alignment                      │
+│ - Distributed stewardship                  │
 └─────────────────────────────────────────────┘
 ▲
 │
 ┌─────────────────────────────────────────────┐
-│ Deployment Membrane │
-│ - Constitutional layer constraints │
-│ - Sensitive-domain exclusions │
-│ - Identity inference prohibition │
-│ - Persona restriction │
-│ - Tool surface gating │
+│ Deployment Membrane                        │
+│ - Constitutional layer constraints         │
+│ - Sensitive-domain exclusions              │
+│ - Identity inference prohibition           │
+│ - Persona restriction                      │
+│ - Tool surface gating                      │
 └─────────────────────────────────────────────┘
 ▲
 │
 ┌─────────────────────────────────────────────┐
-│ Switching Policy │
-│ - Conditional boundedness │
-│ - State-dependent mode selection │
-│ - Hysteretic thresholds │
-│ - Boundary pressure memory │
-│ - Stopping via marginal novelty collapse │
+│ Switching Policy                           │
+│ - Conditional boundedness                  │
+│ - State-dependent mode selection           │
+│ - Hysteretic thresholds                    │
+│ - Boundary pressure memory                 │
+│ - Stopping via marginal novelty collapse   │
 └─────────────────────────────────────────────┘
 ▲
 │
 ┌─────────────────────────────────────────────┐
-│ Training Geometry │
-│ - Calibrated usefulness objective │
-│ - Contraction under ambiguity │
-│ - Expansion under explicit request │
-│ - Non-authority stance │
-│ - Safe progress prioritization │
+│ Training Geometry                          │
+│ - Calibrated usefulness objective          │
+│ - Contraction under ambiguity              │
+│ - Expansion under explicit request         │
+│ - Non-authority stance                     │
+│ - Safe progress prioritization             │
 └─────────────────────────────────────────────┘
-`
+```
 ---
+
 
 ## Layer Responsibilities
 
