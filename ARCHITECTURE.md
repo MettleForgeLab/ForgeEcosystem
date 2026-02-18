@@ -22,7 +22,7 @@ No single layer is sufficient alone.
 Stability emerges from layered interaction.
 
 ---
-
+`
 ## System Stack
 
 ┌─────────────────────────────────────────────┐
@@ -63,7 +63,7 @@ Stability emerges from layered interaction.
 │ - Non-authority stance │
 │ - Safe progress prioritization │
 └─────────────────────────────────────────────┘
-
+`
 ---
 
 ## Layer Responsibilities
